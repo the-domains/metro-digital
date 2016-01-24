@@ -2,12 +2,13 @@ name: metro.digital
 favicon: null
 layout_spectrum: 0.8131414812523872
 typography_spectrum: 0.7711677155457437
+title: metro.digital
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-68407886-1
   facebook: null
   twitter: null
 opengraph:
