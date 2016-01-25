@@ -1,29 +1,19 @@
-name: metro.digital
-favicon: null
-layout_spectrum: 0.99957
-typography_spectrum: 0.57247
-title: metro.digital
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-68407886-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
-    - '#00adef'
     - '#000000'
-    - '#00425b'
-    - '#0082b3'
-    - '#00597c'
+    - '#007098'
+    - '#000000'
+    - '#0078A0'
+    - '#000000'
   brandStrength: 1
   lightness: 0.0625
-  saturation: 0.5
   rhythmicContrast: 1
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.99957
+name: metro.digital
+opengraph: {}
 purpose: []
+typography_spectrum: 0.57247
