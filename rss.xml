@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[metro.digital]]></title>
         <description><![CDATA[metro.digital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/metro-digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 18:45:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 18:46:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/metro-digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Your life is a charade when your future is a mirage.]]></title>
+            <description><![CDATA[<article><h1>Your life is a charade when your future is a mirage.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebe5dfe2ea40573207a906fdef655011d4041293.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BA6KDfrDxOc/</link>
+            <guid isPermaLink="false">4e1ba657-9658-41ec-a818-8f70e386b9fb</guid>
+            <pubDate>Mon, 25 Jan 2016 18:46:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It's bad luck to be superstitious]]></title>
-            <description><![CDATA[<article><h1>It's bad luck to be superstitious</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29d0611969d40e7ad35b089742190af9d926e13f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>It's bad luck to be superstitious</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dd34f68b450b75dca79ea2f2d5a911875b20120.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/BAvDNeNjxPu/</link>
             <guid isPermaLink="false">66f8a2fc-2a47-4e56-9384-bbab0979bcb7</guid>
             <pubDate>Mon, 25 Jan 2016 18:45:42 GMT</pubDate>
